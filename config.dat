@@ -1,0 +1,4 @@
+INPUT_FILE=src/input.cob
+OUTPUT_FILE=src/obfuscated_output.cob
+OBFUSCATE_VARS=YES
+OBFUSCATE_COMMENTS=YES
